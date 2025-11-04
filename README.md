@@ -26,6 +26,7 @@ PDFocus is a desktop application that enhances how you read by applying the Bion
 <img src="screenshots/bionified-document.png" alt="Bionified Document" width="600"/>
 
 ## Installation
+### !Windows 11 Only!
 Download the latest .exe from the Releases page.
 
 ## Known Problems
