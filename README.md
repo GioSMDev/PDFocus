@@ -17,13 +17,20 @@ PDFocus is a desktop application that enhances how you read by applying the Bion
 * Jackson (JSON serialization and deserialization)
 
 #### Main Interface
-![Main Interface](screenshots/menu-ui.png)
+<img src="screenshots/main-ui.png" alt="Main Interface" width="600"/>
 
 #### Bionic Reading Generation
-![Document Interface](screenshots/menu-ui.png)
+<img src="screenshots/document-gen.png" alt="Document Interface" width="600"/>
 
 #### Results
-![Bionified Document](screenshots/bionified-document.png)
+<img src="screenshots/bionified-document.png" alt="Bionified Document" width="600"/>
+
+## Installation
+Download the latest .exe from the Releases page.
+
+## Known Problems
+* PDFs converted from .docx format get flipped when bionic reading is applied: Temp Fix -> check the "Flip Text" box before generating "bionified" document.
+* Scanned PDF documents result in inconsistent character mapping, particularly with special math symbols.
 
 
 
