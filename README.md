@@ -27,7 +27,7 @@ PDFocus is a desktop application that enhances how you read by applying the Bion
 
 ## Installation
 ### !Windows 11 Only!
-Download the latest .exe from the Releases page.
+Download the latest .exe from the [releases](https://github.com/GioSMDev/PDFocus/releases) page.
 
 ## Known Problems
 * PDFs converted from .docx format get flipped when bionic reading is applied: Temp Fix -> check the "Flip Text" box before generating "bionified" document.
