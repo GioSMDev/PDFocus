@@ -47,7 +47,7 @@ public class UploadScene_Contrl implements Initializable{
     @FXML
     ImageView pageFlipIcon;
     @FXML
-    Button cancelButton; // This is liek the worst way to name the button and its gonna bite me i nthe ass but im too lazy to change it...whateva
+    Button cancelButton;
     @FXML
     Button generateButton;
     @FXML
