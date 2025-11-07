@@ -32,7 +32,7 @@ Download the latest .exe from the [releases](https://github.com/GioSMDev/PDFocus
 ## Known Problems
 * PDFs converted from .docx format get flipped when bionic reading is applied: Temp Fix -> check the "Flip Text" box before generating "bionified" document.
 * Scanned PDF documents result in inconsistent character mapping, particularly with special math symbols.
-
+* Dark mode not yet implemented (will be by next release)
 
 
 
